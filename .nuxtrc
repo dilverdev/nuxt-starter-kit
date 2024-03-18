@@ -1,0 +1,2 @@
+shamefully-hoist=true
+typescript.includeWorkspace = true
